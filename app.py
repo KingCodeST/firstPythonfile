@@ -124,7 +124,7 @@ from math import *
 #function
 
 def say_hi(name,age):
-    print("Hello "+name)
+    print("Hello "+name +"Your age"+age)
 
 print("Top")
 say_hi("Siphokuhle","35")
