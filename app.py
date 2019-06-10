@@ -122,11 +122,98 @@ from math import *
 #
 
 #function
+#
+# def say_hi(name,age):
+#     print("Hello "+name +" Your age "+age)
+#
+# print("Top")
+# say_hi("Themba","35")
+# print("Buttom")
+#
 
-def say_hi(name,age):
-    print("Hello "+name +" Your age "+age)
+# return Statements
 
-print("Top")
-say_hi("Themba","35")
-print("Buttom")
+# def cube(num):
+#
+#   return  num*num*num
+#
+# result =cube(4)
+#
+# print(result)
+
+#if statement
+
+# is_male =True
+# is_tall =True
+#
+# if  is_male and is_tall:
+#   print("Your are a male and tall")
+#
+# elif is_male and not (is_tall):
+#     print("you are a short male")
+# else:
+#   print("you are not a male not tall ")
+#
+
+# def max_num(num1, num2, num3):
+#     if num1>= num2 and num1>=num3:
+#         return print("number 1 = "+ num1)
+#     elif num2>= num1 and num2>= num3:
+#         return print("number 2 = "+num2)
+#     else:
+#         return print("Number 3 = "+num3)
+#
+#
+# print(max_num(3,40,5))
+#
+#
+#
+# num1 = float(input("Enter first number: "))
+#
+# op =input("Enter operater : ")
+#
+#
+# num3 =float(input("Enter second  number: "))
+#
+# if op == "+":
+#     print(num1 + num3)
+# elif op == "-":
+#     print(num1-num3)
+# elif op =="/":
+#     print(num1/num3)
+# elif op =="*":
+#     print(num1*num3)
+# else:
+#     print("Invalid operator")
+
+
+#dicionaries
+#
+# monthConversions ={
+#     "Jan": "January",
+#     "Feb": "Febuary",
+#     "Mar": "March",
+#     "Apr": "April",
+#     "May": "May",
+#     "Jun": "June",
+#     "Jul": "July",
+#     "Aug": "August",
+#     "Sep": "September",
+#     "Oct": "October",
+#     "Nov": "November",
+#     "Dec": "December",
+#
+# }
+#
+# print(monthConversions.get("dec","not a valid key"))
+
+#while loop
+
+
+
+
+
+
+
+
 

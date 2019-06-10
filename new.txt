@@ -1,0 +1,9 @@
+
+is_male =True
+
+    if is_male:
+        print("Your are a male")
+    else:
+    print("you are not a male")
+
+
